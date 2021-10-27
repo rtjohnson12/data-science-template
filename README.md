@@ -1,4 +1,4 @@
-project_name
+Project Name
 ==============================
 
 A short description of the project.
